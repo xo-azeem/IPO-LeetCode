@@ -33,5 +33,5 @@ My Solution Analysis:
 
   ![image](https://github.com/xo-azeem/IPO-LeetCode/assets/171427226/850fe579-67b5-4ab8-9986-a85d407b7492)
 
-  Time complexity: O(kn).</br> where; n is the number of elements in the profits and capital arrays and k os the number of iterations.</br>Space complexity: O(1).
+  Time complexity: O(kn).</br> where n is the number of elements in the profits and capital arrays and k os the number of iterations.</br>Space complexity: O(1).
 </div>
